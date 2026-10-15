@@ -2,6 +2,8 @@
 
 <p align="center">
   <img src="WhatsApp Image 2026-10-16 at 01.20.48 (1).jpeg"  width="50%"/>
+  <img src="WhatsApp Image 2026-10-16 at 01.20.48 (1).jpeg"  width="50%"/>
+  <img src="WhatsApp Image 2026-10-16 at 01.20.48 (1).jpeg"  width="50%"/>
 </p>
 
 <h2 align="center">Flutter Batch 02 Assignment</h2>
