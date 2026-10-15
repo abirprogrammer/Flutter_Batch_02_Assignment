@@ -1,7 +1,7 @@
 # Flutter Batch 02 Assignment
 
 <p align="center">
-  <img src="screenshorr.png" alt="Flutter App Screenshot" width="280"/>
+  <img src="screenshorr.pngWhatsApp Image 2026-10-16 at 01.20.48.jpeg" alt="Flutter App Screenshot" width="280"/>
 </p>
 
 <h2 align="center">Flutter Batch 02 Assignment</h2>
